@@ -1,6 +1,6 @@
-# Weather Text View
+#WeatherTextView
 ==========
-![Weather Text View](https://github.com/kabindra/WeatherTextView/edit/master/header.png)
+![Weather Text View ScreenShot](https://github.com/kabindra/WeatherTextView/blob/master/header.png)
 
 TextView to show weather icons by simply tvWeather.setText(R.string.wi_weather_tag);
 
