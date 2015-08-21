@@ -1,13 +1,12 @@
-package com.threecallistos.weathertextview.sample;
+package np.com.kabindra.weathertextview.sample;
 
 import android.app.Activity;
-import android.app.ListActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.GridView;
 
-import com.threecallistos.weathertextview.sample.adapter.WeatherListAdapter;
+import np.com.kabindra.weathertextview.sample.adapter.WeatherListAdapter;
 
 
 public class MainActivity extends Activity {

@@ -1,4 +1,4 @@
-package com.threecallistos.weathertextview.sample.adapter;
+package np.com.kabindra.weathertextview.sample.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -6,8 +6,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 
-import com.threecallistos.weathertextview.sample.R;
-import com.threecallistos.weathertextview.widget.WeatherTextView;
+import np.com.kabindra.weathertextview.sample.R;
+import np.com.kabindra.weathertextview.widget.WeatherTextView;
 
 public class WeatherListAdapter extends BaseAdapter {
     private final Context mContext;

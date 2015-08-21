@@ -14,13 +14,13 @@
  * limitations under the License.
  */
 
-package com.threecallistos.weathertextview.widget;
+package np.com.kabindra.weathertextview.widget;
 
 import android.content.Context;
 import android.util.AttributeSet;
 import android.widget.TextView;
 
-import com.threecallistos.weathertextview.util.WeatherTextViewUtils;
+import np.com.kabindra.weathertextview.util.WeatherTextViewUtils;
 
 /**
  * Implementation of a {@link TextView} with native support for all the Weather fonts.

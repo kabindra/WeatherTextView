@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.threecallistos.weathertextview.util;
+package np.com.kabindra.weathertextview.util;
 
 import android.content.Context;
 import android.graphics.Paint;

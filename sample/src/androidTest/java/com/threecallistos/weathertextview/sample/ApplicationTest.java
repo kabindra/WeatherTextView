@@ -1,4 +1,4 @@
-package com.threecallistos.weathertextview.sample;
+package np.com.kabindra.weathertextview.sample;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
